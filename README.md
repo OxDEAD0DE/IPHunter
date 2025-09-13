@@ -8,7 +8,7 @@
 
 # HOW TO USE ❓
 ```
-git clone https://github.com/madanokr001/IPHunter.git
+git clone https://github.com/OxDEAD0DE/IPHunter.git
 ```
 ```
 cd IPHunter
