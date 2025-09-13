@@ -3,7 +3,7 @@
 - **version 1.0 ✅**
 
 # Screenshot 📸
-<img width="590" height="386" alt="image" src="https://i.postimg.cc/15bTJZRF/Screenshot-2025-09-13-201856.png" />
+<img width="590" height="386" alt="image" src="https://i.postimg.cc/xdRD8Fv4/image-6.png" />
 
 
 # HOW TO USE ❓
