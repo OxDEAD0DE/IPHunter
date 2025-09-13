@@ -3,7 +3,7 @@
 - **version 1.0 ✅**
 
 # Screenshot 📸
-<img width="590" height="386" alt="image" src="https://github.com/user-attachments/assets/46b36f15-0412-4781-b39b-c26650c2c397" />
+<img width="590" height="386" alt="image" src="https://i.postimg.cc/15bTJZRF/Screenshot-2025-09-13-201856.png" />
 
 
 # HOW TO USE ❓
